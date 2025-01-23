@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: uran97bgo-python-gitops-repository
+spec:
+  url: https://github.com/RHTAP-RHDH/uran97bgo-python-gitops
